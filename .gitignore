@@ -1,0 +1,12 @@
+# Entorno y configuraciones locales sensibles
+.env
+*.log
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
